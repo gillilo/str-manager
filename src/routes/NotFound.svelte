@@ -11,7 +11,7 @@
     padding: 80px 20px;
     .status {
       font-size: 160px;
-      color: $color--primary;
+      // color: $color--primary;
     }
     .status-text {
       font-size: 50px;
